@@ -1,11 +1,16 @@
 venv/
 __pycache__/
-*.pyc
 *.pkl
+*.pt
+*.ckpt
 *.csv
 *.log
-.DS_Store
-.env
-.ipynb_checkpoints/
 *.sqlite3
+.DS_Store
+.ipynb_checkpoints/
+.env
+*.h5
+*.pth
+*.onnx
+*.joblib
 
